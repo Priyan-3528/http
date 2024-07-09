@@ -4,4 +4,4 @@
 
 azure-functions
 importlib-resources
-sys
+logging
